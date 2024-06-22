@@ -1,0 +1,70 @@
+
+1. Select Your Operating System (OS)
+Windows 11
+I already have Windows 11 installed
+
+2. Install a Text Editor or Integrated Development Environment (IDE)
+Objective: Select and install a text editor or IDE suitable for your programming languages and workflow.
+Chosen IDE: Visual Studio Code
+
+Steps:
+a. Download Visual Studio Code: https://code.visualstudio.com/Download
+b. Install Visual Studio Code: Run the downloaded installer and follow the installation wizard to complete the setup.
+
+3. Set Up Version Control System
+ Objective: Install Git and configure it on your local machine. I already have a GitHub account for hosting my repositories. 
+
+Steps:
+a. Install Git:
+    - https://git-scm.com/download/win.
+    - Download and run the installer.
+    - Follow the installation steps, keeping the default options.
+. Configure Git:
+    - Open a terminal Command Prompt.
+    - Set your Git username and email:
+      git config --global user.name "Your Name"
+      git config --global user.email "your.email@example.com"
+      
+
+4. Install Necessary Programming Languages and Runtimes
+ Objective: Install Python programming language required for your project and ensure you have the necessary tools to build and execute your code.
+
+Chosen Language: Python
+
+Steps:
+a. Download Python:https://www.python.org/downloads/.
+b. Install Python:
+    - Download the installer for the latest version.
+    - Run the installer and ensure to check "Add Python to PATH".
+    - Follow the installation steps.
+
+5. Install Package Managers
+ Objective: Install package managers like pip for Python.
+
+Steps:
+a. Verify pip Installation:
+    - Pip is installed by default with Python. Verify by running: pip --version
+
+ 6. Configure a Database (MySQL)
+  Objective: Download and install MySQL database.
+
+Steps:
+1. Download MySQL: https://dev.mysql.com/downloads/windows/installer/5.7.html.
+2. Install MySQL:
+    - Download the MySQL Installer.
+    - Run the installer and choose the "Developer Default" setup type.
+    - Follow the installation steps, setting a root password and creating a user account.
+
+
+7. Explore Extensions and Plugins
+ Objective: Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality.
+
+Steps:
+a. Open Visual Studio Code**:
+    - Go to the Extensions view by clicking the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
+b. Install Extensions:
+    - Search for and install the following recommended extensions:
+        - Python: For Python development.
+        - GitLens: Supercharge the built-in Git capabilities.
+        - Pylint: For Python linting.
+        - Prettier: For code formatting.
